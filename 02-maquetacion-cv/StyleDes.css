@@ -1,0 +1,123 @@
+body {
+    margin:0;
+    padding:0;
+    background: #FFFFFF;
+}
+
+.principal {
+    width: 100%;
+    height: 200px;
+    background: #fe4c46;
+}
+
+.principal .content {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+    
+}
+
+.principal .content .name {
+    color: black;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 5;
+}
+
+.cartel {
+    width: 90%;
+    height: auto;
+    background: #fc7b77;
+    margin:2% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.cartel .carttitle{
+    color: #000000;
+    font-family: 'Bebas Neue', cursive;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 3px #FFFFFF dotted;
+}
+
+.cartel .cartinf{
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    text-align: center;
+}
+.cartel .box figure img{
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+.rancho {
+    width: 90%;
+    height: auto;
+    background: #fc7b77;
+    margin:2% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.rancho .rantitle{
+    color: #000000;
+    font-family: 'Bebas Neue', cursive;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 3px #FFFFFF dotted;
+}
+
+.rancho .raninf{
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    text-align: center;
+}
+.rancho .box figure img{
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+
+.pincel {
+    width: 90%;
+    height: auto;
+    background: #fc7b77;
+    margin:2% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.pincel .pintitle{
+    color: #000000;
+    font-family: 'Bebas Neue', cursive;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 3px #FFFFFF dotted;
+}
+
+.pincel .pininf{
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    text-align: center;
+}
+.pincel .box figure img{
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+

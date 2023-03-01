@@ -1,0 +1,123 @@
+body {
+    margin:0;
+    padding:0;
+    background: #FFFFFF;
+}
+
+.principal {
+    width: 100%;
+    height: 200px;
+    background: #99fe46;
+}
+
+.principal .content {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+    
+}
+
+.principal .content .name {
+    color: black;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 5;
+}
+
+.pano {
+    width: 90%;
+    height: auto;
+    background: #bbfa87;
+    margin:2% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.pano .pantitle{
+    color: #000000;
+    font-family: 'Bebas Neue', cursive;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 3px #FFFFFF dotted;
+}
+
+.pano .paninf{
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    text-align: center;
+}
+.pano .box figure img{
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+.leaf {
+    width: 90%;
+    height: auto;
+    background: #bbfa87;
+    margin:2% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.leaf .leftitle{
+    color: #000000;
+    font-family: 'Bebas Neue', cursive;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 3px #FFFFFF dotted;
+}
+
+.leaf .lefinf{
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    text-align: center;
+}
+.leaf .box figure img{
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+
+.sun {
+    width: 90%;
+    height: auto;
+    background: #bbfa87;
+    margin:2% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.sun .suntitle{
+    color: #000000;
+    font-family: 'Bebas Neue', cursive;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 3px #FFFFFF dotted;
+}
+
+.sun .suninf{
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    text-align: center;
+}
+.sun .box figure img{
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+

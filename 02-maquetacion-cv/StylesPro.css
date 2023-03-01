@@ -1,0 +1,91 @@
+body {
+    margin:0;
+    padding:0;
+    background: #FFFFFF;
+}
+
+.principal {
+    width: 100%;
+    height: 200px;
+    background: #9756ff;
+}
+
+.principal .content {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+    
+}
+
+.principal .content .name {
+    color: black;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 5;
+}
+
+.project {
+    width: 90%;
+    height: auto;
+    background: #ac79ff;
+    margin:2% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.project .protitle{
+    color: #000000;
+    font-family: 'Bebas Neue', cursive;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 3px #FFFFFF dotted;
+}
+
+.project .proinf{
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    text-align: center;
+}
+.project .box figure img{
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+.projectu {
+    width: 90%;
+    height: auto;
+    background: #ac79ff;
+    margin:2% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.projectu .proutitle{
+    color: #000000;
+    font-family: 'Bebas Neue', cursive;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 3px #FFFFFF dotted;
+}
+
+.projectu .prouinf{
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    text-align: center;
+}
+.projectu .box figure img{
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+
