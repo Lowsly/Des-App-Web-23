@@ -12,7 +12,6 @@ function mostrarMay() {
     } else {
       numeroMayor = num3;
     }
-  
     document.write("El número mayor de los ingresados es: " + numeroMayor);
   }
   

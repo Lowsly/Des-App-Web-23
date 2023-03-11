@@ -14,14 +14,16 @@ body {
     text-align: center;
 }
 
-.ejercicio4 .ejer4title{
-    color: #000000;
-    font-family: 'Bebas Neue', cursive;
-    font-size: xx-large;
-    text-align: center;
-    font-weight: bold;
-    border-bottom: 3px #FFFFFF dotted;
-    margin-bottom: 20px
+.eje4title {
+  width: 100%;
+  height: auto;
+  background: #e4f431;
+  color: #000000;
+  font-family: 'Bebas Neue', cursive;
+  font-size: xx-large;
+  text-align: center;
+  font-weight: normal;
+  border-bottom: 3px #FFFFFF dotted;
 }
 nav {
     position: absolute;
