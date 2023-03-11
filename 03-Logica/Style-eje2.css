@@ -13,6 +13,18 @@ body {
     border-radius: 20px;
     text-align: center;
 }
+
+.eje2title {
+  width: 100%;
+  height: auto;
+  background: #e4f431;
+  color: #000000;
+  font-family: 'Bebas Neue', cursive;
+  font-size: xx-large;
+  text-align: center;
+  font-weight: normal;
+  border-bottom: 3px #FFFFFF dotted;
+}
 nav {
     position: absolute;
     top: 0;
