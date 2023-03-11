@@ -1,7 +1,8 @@
-function conversion(){
+function conversion() {
+    let fahren = prompt("Ingresa los grados Fahrenhit que desees convertir a celsius: ");
+    let cels = (fahren - 32) * 5 / 9;
 
-    let far = parseFloat (prompt)("Ingresa la temperatura en grados Farenheit: ")
-    let cent= (far-32) ÷ 1.8;
-    let resultado = conversion();
-}
-document.write(resultado)
+    alert("Conversión realizada con éxito.")
+    document.write(fahren + " grados Fahrenheit equivalen a " + cels + " grados Celsius.");
+  }
+  conversion();

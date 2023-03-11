@@ -1,0 +1,93 @@
+body {
+    margin:0;
+    padding:0;
+    background: #CAF0F8 ;
+}
+
+.ejercicios {
+    width: 90%;
+    height: auto;
+    background: #79CCDB;
+    margin:5% auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.ejercicios .ejertitle{
+    color: #000000;
+    font-family: 'Bebas Neue', cursive;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 3px #FFFFFF dotted;
+    margin-bottom: 20px
+}
+
+.ejercicios .ejer1title {
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    margin-right: 30px;
+    display: inline-flexbox;
+}
+
+.ejercicios .ejer2title{
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    margin-right: 30px;
+    display: inline-flexbox;
+}
+
+.ejercicios .ejer3title{
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    margin-right: 30px;
+}
+
+.ejercicios .ejer4title{
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    margin-right: 30px;
+}
+
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .menu li {
+    display: inline-block;
+    margin-right: 20px;
+    border-right: 1px solid #ccc;
+    transition: all 0.3s ease;
+  }
+  
+  .menu li:last-child {
+    border-right: none;
+  }
+  
+  .menu li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    padding: 10px;
+    display: block;
+  }
+  
+  .menu li a:hover {
+    color: #2207b9;
+    background-color: #ddd;
+  }
+  
