@@ -6,7 +6,7 @@ function evaluateLetter() {
         document.write("Por favor, ingrese una letra válida");
       }
     else if (letra.toUpperCase() === "A" || letra.toUpperCase()=== "E" || letra.toUpperCase()==="I" || letra.toUpperCase()==="O" ||letra.toUpperCase() === "U") {
-        document.write("Has ingresado una vocal");
+        document.write("Has ingresado una vocal.");
       } 
     else {
         document.write("Has ingresado una consonante.");
