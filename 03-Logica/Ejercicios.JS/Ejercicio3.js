@@ -1,7 +1,7 @@
 function mostrarMay() {
-    let num1 = parseInt(prompt("Por favor, ingresa el primer número: "));
-    let num2 = parseInt(prompt("Ingresa el segundo número: "));
-    let num3 = parseInt(prompt("Ingresa el tercer número: "));
+    let num1 = parseInt(prompt("Por favor, ingrese el primer número: "));
+    let num2 = parseInt(prompt("Ingrese el segundo número: "));
+    let num3 = parseInt(prompt("Ingrese el tercer número: "));
   
     let numeroMayor;
     
@@ -12,7 +12,7 @@ function mostrarMay() {
     } else {
       numeroMayor = num3;
     }
-    document.write("El número mayor de los ingresados es: " + numeroMayor);
+    document.write("El número mayor de los que ingresó es: " + numeroMayor);
   }
   
   mostrarMay();
