@@ -3,6 +3,11 @@ section {
     padding-right:15%;
 }
 
+#principaltitle{
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    text-align: center;
+    font-size: xx-large;
+}
 #frase {
     color:slategray;
     font-size:18px;
