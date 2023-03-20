@@ -8,3 +8,8 @@ section {
     font-size:18px;
     font-weight: bold;
 }
+#imagen{
+    width: 500px;
+    display: block;
+    margin: auto;
+}
