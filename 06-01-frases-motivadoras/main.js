@@ -10,8 +10,9 @@ const frases = [
     { frase: "Nuestra vida siempre expresa el resultado de nuestros pensamientos dominantes", autor: "~ Søren Kierkegaard", imagen: "https://upload.wikimedia.org/wikipedia/commons/7/70/Kierkegaard_1902_by_Luplau_Janssen.jpg" },
     { frase: "El secreto de la felicidad no es hacer siempre lo que se quiere, sino querer siempre lo que se hace", autor: "~ Tolstoi", imagen: "https://www.biografiasyvidas.com/biografia/t/fotos/tolstoi_leon.jpg" },
     { frase: "Hace falta una vida para aprender a vivir", autor: "~ Séneca", imagen: "https://i.em.com.br/X0sT5EucnwNMxntMD0w7W2HEI1Q=/876x1024/smart/imgsapp.em.com.br/app/noticia_127983242361/2022/11/02/1416291/the-dying-seneca-pintura-de-peter-paul-rubens_1_81451.jpg" },
-    { frase: " La vida es muy simple, pero insistimos en hacerla complicada", autor: "~ Confucio", imagen: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Konfuzius-1770.jpg/640px-Konfuzius-1770.jpg" },
-    {frase: " Nadie debería creerse perfecto, ni preocuparse demasiado por el hecho de no serlo ", autor: "~ Bertrand Russell", imagen: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bertrand_Russell_cropped.jpg"},
+    { frase: "La vida es muy simple, pero insistimos en hacerla complicada", autor: "~ Confucio", imagen: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Konfuzius-1770.jpg/640px-Konfuzius-1770.jpg" },
+    { frase: " Nadie debería creerse perfecto, ni preocuparse demasiado por el hecho de no serlo ", autor: "~ Bertrand Russell", imagen: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bertrand_Russell_cropped.jpg"},
+    { frase: "Los grandes resultados requieren grandes ambiciones", autor: "~ Heráclito", imagen: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Heraclitus_Rijksmuseum_SK-A-2784.jpeg/1200px-Heraclitus_Rijksmuseum_SK-A-2784.jpeg"},
   ];
   // Paso #2 Crear una función que me genere una frase de forma aleatoria
     function generaFrase() {
