@@ -3,15 +3,18 @@ body{
     padding:0;
     background-color:#CCFCCB;
 }
+
 section {
     padding-left: 15%;
     padding-right:15%;
 }
+
 #principal{
     margin:0;
     padding:0;
     background-color: #96E6B3;
 }
+
 #principaltitle{
     margin:0;
     padding:0;
@@ -29,6 +32,7 @@ section {
     font-size: larger;
     color: #000000;
 }
+
 #frase {
     color: #000000;
     font-size:larger;
@@ -41,6 +45,7 @@ section {
     border-radius: 30px;
     border: rgba(46, 51, 7, 0.808) 3px dotted;
 }
+
 #autor{
     color: #000000;
     font-weight: bold;
@@ -48,12 +53,14 @@ section {
     font-size: larger;
     font-style: italic;
 }
+
 #imagen{
     width: 250px;
     display: block;
     margin: auto;
     box-shadow: 0 0 0 5px black; 
 }
+
 #botton{
     background-color: #2e854e;
     color: white;
@@ -83,6 +90,7 @@ section {
     left:0px;
     bottom:0px;
 }
+
 .piepa .group-1{
     width: 100%;
     max-width: 1200px;
@@ -92,6 +100,7 @@ section {
     grid-gap: 50px;
     justify-content: space-around;
 }
+
 .piepa .group-1 .box figure{
     width: 50%;
     height: 50%;
@@ -99,9 +108,11 @@ section {
     justify-content: center;
     align-items: center;
 }
+
 .piepa .group-1 .box figure img{
     width: 100px;
 }
+
 .piepa .group-1 .box p{
     font-family: 'Montserrat', sans-serif;
     font-size: medium;
@@ -110,6 +121,7 @@ section {
     justify-content: space-around;
     align-items: center;
 }
+
 .piepa .group-1 .box h2{
     color: white;
     font-family: 'Montserrat', sans-serif;
