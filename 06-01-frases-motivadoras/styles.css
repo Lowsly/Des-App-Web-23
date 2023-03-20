@@ -16,6 +16,13 @@ section {
     border-radius: 30px;
     border: rgba(46, 51, 7, 0.808) 3px dotted;
 }
+#autor{
+    color: #000000;
+    font-weight: bold;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    font-size: larger;
+    font-style: italic;
+}
 #imagen{
     width: 400px;
     display: block;
