@@ -2,16 +2,16 @@
 // Paso #1 Declaro mi arreglo de elementos con la información de las frases
 const frases = [
     { frase: "El conocimiento es poder", autor: "~ Francis Bacon", imagen: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Francis_Bacon%2C_Viscount_St_Alban_from_NPG_%282%29.jpg/1200px-Francis_Bacon%2C_Viscount_St_Alban_from_NPG_%282%29.jpg" },
-    { frase: "La peor lucha es la que no se hace", autor: "~ Karl Max", imagen: "https://www.biografiasyvidas.com/biografia/k/imgs/karl_marx.jpg" },
-    { frase: "El que no arriesga no gana", autor: "~ Anónimo", imagen: "https://www.biografiasyvidas.com/biografia/a/imgs/anonimo.jpg" },
-    { frase: " Exígete mucho a ti mismo y espera poco de los demás. Así te ahorrarás disgustos", autor: "~ Confuncio", imagen: "https://www.biografiasyvidas.com/biografia/c/imgs/confucio.jpg" },
-    { frase: "La vida es un viaje, no un destino", autor: "~ Ralph Waldo Emerson", imagen: "https://www.biografiasyvidas.com/biografia/r/imgs/ralph_waldo_emerson.jpg" },
-    { frase: "Pocas veces pensamos en lo que tenemos; pero siempre en lo que nos falta", autor: "~ Schopenhauer", imagen: "https://www.biografiasyvidas.com/biografia/s/imgs/schopenhauer.jpg" },
-    { frase: "Nuestra vida siempre expresa el resultado de nuestros pensamientos dominantes", autor: "~ Søren Kierkegaard", imagen: "https://www.biografiasyvidas.com/biografia/s/imgs/soren_kierkegaard.jpg" },
-    { frase: "El secreto de la felicidad no es hacer siempre lo que se quiere, sino querer siempre lo que se hace", autor: "~ Tolstoi", imagen: "https://www.biografiasyvidas.com/biografia/t/imgs/tolstoi.jpg" },
-    { frase: "Hace falta una vida para aprender a vivir", autor: "~ Séneca", imagen: "https://www.biografiasyvidas.com/biografia/s/imgs/seneca.jpg" },
-    { frase: " La vida es muy simple, pero insistimos en hacerla complicada", autor: "~ Confucio", imagen: "https://www.biografiasyvidas.com/biografia/c/imgs/confucio.jpg" },
-    {frase: " Nadie debería creerse perfecto, ni preocuparse demasiado por el hecho de no serlo ", autor: "~ Bertrand Russell", imagen: "https://www.biografiasyvidas.com/biografia/b/imgs/bertrand_russell.jpg"},
+    { frase: "La peor lucha es la que no se hace", autor: "~ Karl Marx", imagen: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Karl_Marx_001.jpg/1200px-Karl_Marx_001.jpg" },
+    { frase: "El corazón tiene razones que la razón ignora", autor: "~ Blaise Pascal", imagen: "https://media.sciencephoto.com/c0/23/76/89/c0237689-800px-wm.jpg" },
+    { frase: " Exígete mucho a ti mismo y espera poco de los demás. Así te ahorrarás disgustos", autor: "~ Confuncio", imagen: "https://www.xlsemanal.com/wp-content/uploads/sites/3/2011/04/Conocer-historia-confucio-1-1024x952.jpg" },
+    { frase: "La vida es un viaje, no un destino", autor: "~ Ralph Waldo Emerson", imagen: "https://cdn.britannica.com/56/65056-050-9E0FABF2/Ralph-Waldo-Emerson-1860.jpg" },
+    { frase: "Pocas veces pensamos en lo que tenemos; pero siempre en lo que nos falta", autor: "~ Schopenhauer", imagen: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Arthur_Schopenhauer_colorized.jpg/800px-Arthur_Schopenhauer_colorized.jpg" },
+    { frase: "Nuestra vida siempre expresa el resultado de nuestros pensamientos dominantes", autor: "~ Søren Kierkegaard", imagen: "https://upload.wikimedia.org/wikipedia/commons/7/70/Kierkegaard_1902_by_Luplau_Janssen.jpg" },
+    { frase: "El secreto de la felicidad no es hacer siempre lo que se quiere, sino querer siempre lo que se hace", autor: "~ Tolstoi", imagen: "https://www.biografiasyvidas.com/biografia/t/fotos/tolstoi_leon.jpg" },
+    { frase: "Hace falta una vida para aprender a vivir", autor: "~ Séneca", imagen: "https://i.em.com.br/X0sT5EucnwNMxntMD0w7W2HEI1Q=/876x1024/smart/imgsapp.em.com.br/app/noticia_127983242361/2022/11/02/1416291/the-dying-seneca-pintura-de-peter-paul-rubens_1_81451.jpg" },
+    { frase: " La vida es muy simple, pero insistimos en hacerla complicada", autor: "~ Confucio", imagen: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Konfuzius-1770.jpg/640px-Konfuzius-1770.jpg" },
+    {frase: " Nadie debería creerse perfecto, ni preocuparse demasiado por el hecho de no serlo ", autor: "~ Bertrand Russell", imagen: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bertrand_Russell_cropped.jpg"},
   ];
   // Paso #2 Crear una función que me genere una frase de forma aleatoria
     function generaFrase() {
