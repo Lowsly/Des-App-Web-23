@@ -14,7 +14,7 @@ section {
     font-size: x-large;
     text-align: center;
     border-radius: 30px;
-    border: tomato 3px dotted;
+    border: rgba(46, 51, 7, 0.808) 3px dotted;
 }
 #imagen{
     width: 400px;
