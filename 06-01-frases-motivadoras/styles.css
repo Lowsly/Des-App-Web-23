@@ -56,15 +56,15 @@ section {
     box-shadow: 0 0 0 10px black; 
 }
 #botton{
-    background-color: blue; /* Establece el color de fondo del botón */
-    color: white; /* Establece el color del texto del botón */
-    border: none; /* Quita el borde del botón */
-    padding: 10px 20px; /* Establece el relleno (padding) del botón */
-    font-size: 16px; /* Establece el tamaño de fuente del botón */
-    border-radius: 5px; /* Establece los radios de esquina del botón */
-    cursor: pointer; /* Cambia el cursor del mouse cuando se pasa sobre el botón */
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.2); /* Agrega una sombra al botón */
-    transition: all 0.3s ease; /* Agrega una transición animada a los cambios de estilo */
+    background-color: #2e854e;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
     font-family: 'Bebas Neue', cursive;
     font-weight: normal;
     font-size: larger;
@@ -72,8 +72,8 @@ section {
 }
 
 #botton:hover {
-    background-color: darkblue; /* Cambia el color de fondo del botón al pasar el mouse sobre él */
-    box-shadow: 3px 3px 7px rgba(0,0,0,0.3); /* Aumenta la intensidad de la sombra al pasar el mouse sobre el botón */
+    background-color: orangered;
+    box-shadow: 3px 3px 7px rgba(0,0,0,0.3); 
 }
 .piepa{
     width: 100%;
